@@ -1,1 +1,1 @@
-Problem solving practice in Datas Structures Algorithms using Java
+Problem solving practice in Datas Structures Algorithms using Java.
